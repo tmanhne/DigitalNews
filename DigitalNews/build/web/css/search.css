@@ -1,0 +1,7 @@
+.title a{
+    color: #42554e;
+    text-decoration: none;
+}
+.per_article img{
+    content:url('../images/i1.jpg');
+}
